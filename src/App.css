@@ -1,0 +1,14 @@
+.welcome {
+  text-align: center;
+}
+.regCont {
+  width: 80%;
+  border: 1px solid darkolivegreen;
+}
+
+.delbtn {
+  background-color: red;
+  color: white;
+  width: 10px;
+  height: 10px;
+}
