@@ -18,7 +18,7 @@ export class Users extends Component {
         <td>{u.gender}</td>
         <td>
           <button
-            className="btn btn-danger btn-xsm"
+            className="btn btn-light"
             onClick={this.deleteU}
             id={index}
           >

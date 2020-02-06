@@ -38,18 +38,18 @@ class App extends React.Component {
       <div className="App">
         <h3 className="welcome">Registration Form</h3>
         <AddUser add={this.addUser} />
-        <table className="table container bg-secondary text-light mt-5">
+        <table className="table container bg-secondary text-light ">
           <thead>
             <tr>
               <th>#</th>
               <th>First Name</th>
               <th>Last Name</th>
-              <th>Date of Birth</th>
+              <th>DOB</th>
               <th>Gender</th>
-              <th></th>
+              
             </tr>
           </thead>
-          <tbody className="bg-info">
+          <tbody className="bg-danger m-0">
             <Users user={this.state.users} del={this.deleteUser} />
           </tbody>
         </table>

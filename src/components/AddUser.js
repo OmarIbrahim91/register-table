@@ -31,7 +31,7 @@ export class AddUser extends Component {
 
   render() {
     return (
-      <div className="regCont container bg-info rounded-top">
+      <div className="container bg-danger text-light rounded-top">
         <form onSubmit={this.onSubmit}>
           <div className="form-inline row p-3">
             <label className="col-md-2">FirstName:</label>
@@ -53,8 +53,8 @@ export class AddUser extends Component {
               onChange={this.handleFormChanges}
             />
           </div>
-          <div className="form-inline row pl-3 pt-3">
-            <label className="col-md-2">DateOfBirth:</label>
+          <div className="form-inline row mx-auto pt-3">
+            <label className="col-md-2">Date Of Birth:</label>
             <input
               type="Date"
               name="dob"
