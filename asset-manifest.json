@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/register-table/static/css/main.88a35bf7.chunk.css",
-    "main.js": "/register-table/static/js/main.16042214.chunk.js",
-    "main.js.map": "/register-table/static/js/main.16042214.chunk.js.map",
+    "main.css": "/register-table/static/css/main.824068c9.chunk.css",
+    "main.js": "/register-table/static/js/main.477e758c.chunk.js",
+    "main.js.map": "/register-table/static/js/main.477e758c.chunk.js.map",
     "runtime-main.js": "/register-table/static/js/runtime-main.d1611d67.js",
     "runtime-main.js.map": "/register-table/static/js/runtime-main.d1611d67.js.map",
     "static/js/2.6140f5cd.chunk.js": "/register-table/static/js/2.6140f5cd.chunk.js",
     "static/js/2.6140f5cd.chunk.js.map": "/register-table/static/js/2.6140f5cd.chunk.js.map",
     "index.html": "/register-table/index.html",
-    "precache-manifest.ac57752ed7fe6aa8cf75c03c488ddc20.js": "/register-table/precache-manifest.ac57752ed7fe6aa8cf75c03c488ddc20.js",
+    "precache-manifest.2ddf97dfd980f35fe1c35619fc60aed2.js": "/register-table/precache-manifest.2ddf97dfd980f35fe1c35619fc60aed2.js",
     "service-worker.js": "/register-table/service-worker.js",
-    "static/css/main.88a35bf7.chunk.css.map": "/register-table/static/css/main.88a35bf7.chunk.css.map"
+    "static/css/main.824068c9.chunk.css.map": "/register-table/static/css/main.824068c9.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.d1611d67.js",
     "static/js/2.6140f5cd.chunk.js",
-    "static/css/main.88a35bf7.chunk.css",
-    "static/js/main.16042214.chunk.js"
+    "static/css/main.824068c9.chunk.css",
+    "static/js/main.477e758c.chunk.js"
   ]
 }
